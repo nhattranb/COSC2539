@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3f786fb-f350-4ab7-b5c0-b31961d19b6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC2081-Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/program/rmit/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/program/rmit/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/security/COSC2539.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/security/certificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/security/digitalsignage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/welcome2023/file.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HX1qrUy5J4zlJExoVGExS41gCu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/COSC2081-Project2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.COSC2539">
+    <configuration name="COSC2539" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="security.COSC2539" />
+      <module name="COSC2081-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="certificate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="security.certificate" />
+      <module name="COSC2081-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.program.rmit.rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.program.rmit.rectangle" />
+      <module name="COSC2081-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="digitalsignage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="security.digitalsignage" />
+      <module name="COSC2081-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.program.rmit.test1" />
+      <module name="COSC2081-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.program.rmit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.COSC2539" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.certificate" />
+        <item itemvalue="Application.digitalsignage" />
+        <item itemvalue="Application.com.program.rmit.rectangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f786fb-f350-4ab7-b5c0-b31961d19b6a" name="Changes" comment="" />
+      <created>1668416809368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668416809368</updated>
+      <workItem from="1668416810666" duration="629000" />
+      <workItem from="1668427604547" duration="2857000" />
+      <workItem from="1668437419501" duration="139000" />
+      <workItem from="1668437567887" duration="5000" />
+      <workItem from="1668494779060" duration="367000" />
+      <workItem from="1668568001887" duration="397000" />
+      <workItem from="1668568482267" duration="1138000" />
+      <workItem from="1668653089362" duration="103000" />
+      <workItem from="1668653604579" duration="1202000" />
+      <workItem from="1668736194083" duration="2637000" />
+      <workItem from="1668999806689" duration="1642000" />
+      <workItem from="1669028843891" duration="1430000" />
+      <workItem from="1669538000327" duration="946000" />
+      <workItem from="1669621756704" duration="4444000" />
+      <workItem from="1669637767691" duration="1833000" />
+      <workItem from="1669945623200" duration="147000" />
+      <workItem from="1670382042870" duration="167000" />
+      <workItem from="1670403964557" duration="130000" />
+      <workItem from="1670404147059" duration="732000" />
+      <workItem from="1670831393666" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
